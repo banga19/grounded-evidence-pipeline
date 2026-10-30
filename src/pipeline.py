@@ -20,7 +20,7 @@ from .evaluate.metrics import evaluate, write_report
 from .search.local_corpus_provider import LocalCorpusProvider
 from .storage.database import EvidenceStore
 
-GROUNDING_THRESHOLD = 0.5
+GROUNDING_THRESHOLD = 0.4 # was 0.5
 
 
 def run_pipeline(
