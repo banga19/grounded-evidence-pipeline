@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Data Protection Act 2019: foundations for responsible AI in Kenya",
+    "url": "https://corpus.example.com/kenya/dpa-2019",
+    "snippet": "Kenya's Data Protection Act 2019 regulates how personal data is collected, stored and processed, and establishes the Office of the Data Protection Commissioner. Any AI system that processes citizen data falls under its consent, purpose-limitation and security obligations, making compliance a prerequisite for deploying AI products in Kenya."
+  },
+  {
+    "title": "Kenya National Digital Masterplan and emerging technology policy",
+    "url": "https://corpus.example.com/kenya/digital-masterplan",
+    "snippet": "The Kenya National Digital Masterplan sets out the government's plan for digital skills, infrastructure and emerging technologies including artificial intelligence. It frames AI adoption as an economic priority while calling for capacity building, local talent development and regulatory readiness across the public sector."
+  },
+  {
+    "title": "AI adoption in Kenyan public services: opportunities and governance gaps",
+    "url": "https://corpus.example.com/kenya/public-sector-ai",
+    "snippet": "Analysis of AI adoption in Kenyan public services finds strong interest in automation of service delivery but clear governance gaps: transparency requirements, human oversight of automated decisions and accountability for errors are not yet codified. Proposed policy direction emphasises risk-tiered regulation of AI systems."
+  },
+  {
+    "title": "Data protection compliance steps for AI startups in Nairobi",
+    "url": "https://corpus.example.com/kenya/startup-compliance",
+    "snippet": "Startups building AI products in Nairobi typically register as data controllers with the Office of the Data Protection Commissioner, publish privacy notices, run data protection impact assessments for higher-risk processing, and appoint a data protection officer. Compliance early in the build cycle reduces regulatory friction at launch."
+  },
+  {
+    "title": "Connectivity and compute infrastructure shaping AI deployment in East Africa",
+    "url": "https://corpus.example.com/kenya/infrastructure",
+    "snippet": "Regional data centre investment, expanding undersea cable capacity and falling compute costs are shaping how AI is deployed in East Africa. Local hosting can reduce latency and help organisations meet data residency expectations, while cloud services remain the default for burst compute and managed AI platforms."
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Mobile money and the growth of e-commerce in East Africa",
+    "url": "https://corpus.example.com/ecommerce/mobile-money",
+    "snippet": "Mobile money integration is a primary driver of e-commerce growth in East Africa. Merchants that offer wallet checkout alongside card payments report lower cart abandonment, and platforms increasingly treat mobile money APIs as core payments infrastructure rather than an optional add-on."
+  },
+  {
+    "title": "Last-mile delivery challenges for online retail in Nairobi",
+    "url": "https://corpus.example.com/ecommerce/last-mile",
+    "snippet": "Last-mile delivery remains the hardest part of online retail in Nairobi: informal addressing, traffic congestion and fragmented courier networks raise costs and delivery times. Operators respond with pickup stations, rider networks and route planning, and delivery reliability is a major driver of customer trust."
+  },
+  {
+    "title": "Social commerce: how WhatsApp and Instagram storefronts sell in Kenya",
+    "url": "https://corpus.example.com/ecommerce/social-commerce",
+    "snippet": "A large share of online selling in Kenya happens through WhatsApp catalogues and Instagram storefronts rather than formal marketplaces. Small merchants use chat to negotiate prices and confirm orders, then hand off to courier services, which keeps startup costs low but limits analytics and scale."
+  },
+  {
+    "title": "Trust, cash on delivery and returns management in African marketplaces",
+    "url": "https://corpus.example.com/ecommerce/trust-returns",
+    "snippet": "Cash on delivery persists because shoppers trust it more than prepayment, but it strains working capital and increases failed-delivery costs. Marketplaces build trust through buyer protection, verified sellers and predictable returns management, and merchants who publish clear return policies see higher conversion."
+  },
+  {
+    "title": "Payments regulation and digital finance rules affecting online merchants",
+    "url": "https://corpus.example.com/ecommerce/payments-regulation",
+    "snippet": "Payment service providers in Kenya operate under central bank oversight, with licensing, consumer protection and reporting obligations that reach online merchants indirectly through their payment partners. Understanding how regulation shapes settlement times and chargebacks helps merchants choose the right payment stack."
+  }
+]
